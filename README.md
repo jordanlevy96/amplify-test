@@ -12,6 +12,8 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
+Use Node.js 24.22.1 or a later patched 24.x release (`nvm install && nvm use`).
+
 ```sh
 npm install
 ```
